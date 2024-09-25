@@ -1,0 +1,14 @@
+C:\Users\adamj\source\repos\ObliczPole\ObliczPole\obj\Debug\net6.0\ObliczPole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamj\source\repos\ObliczPole\ObliczPole\obj\Debug\net6.0\ObliczPole.AssemblyInfoInputs.cache
+C:\Users\adamj\source\repos\ObliczPole\ObliczPole\obj\Debug\net6.0\ObliczPole.AssemblyInfo.cs
+C:\Users\adamj\source\repos\ObliczPole\ObliczPole\obj\Debug\net6.0\ObliczPole.csproj.CoreCompileInputs.cache
+C:\Users\adamj\source\repos\ObliczPole\ObliczPole\bin\Debug\net6.0\ObliczPole.exe
+C:\Users\adamj\source\repos\ObliczPole\ObliczPole\bin\Debug\net6.0\ObliczPole.deps.json
+C:\Users\adamj\source\repos\ObliczPole\ObliczPole\bin\Debug\net6.0\ObliczPole.runtimeconfig.json
+C:\Users\adamj\source\repos\ObliczPole\ObliczPole\bin\Debug\net6.0\ObliczPole.dll
+C:\Users\adamj\source\repos\ObliczPole\ObliczPole\bin\Debug\net6.0\ObliczPole.pdb
+C:\Users\adamj\source\repos\ObliczPole\ObliczPole\obj\Debug\net6.0\ObliczPole.dll
+C:\Users\adamj\source\repos\ObliczPole\ObliczPole\obj\Debug\net6.0\refint\ObliczPole.dll
+C:\Users\adamj\source\repos\ObliczPole\ObliczPole\obj\Debug\net6.0\ObliczPole.pdb
+C:\Users\adamj\source\repos\ObliczPole\ObliczPole\obj\Debug\net6.0\ObliczPole.genruntimeconfig.cache
+C:\Users\adamj\source\repos\ObliczPole\ObliczPole\obj\Debug\net6.0\ref\ObliczPole.dll
